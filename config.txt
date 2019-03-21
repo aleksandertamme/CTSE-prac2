@@ -5,6 +5,7 @@
 	symlinks = false
 	ignorecase = true
 
+
 __pycache__/ contains the bytecode of the compiled python program
 
 
