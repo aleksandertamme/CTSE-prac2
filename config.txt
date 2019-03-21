@@ -4,6 +4,8 @@
 	bare = true
 	symlinks = false
 	ignorecase = true
-	name = aleksander
+
+__pycache__/ contains the bytecode of the compiled python program
+
 
 
