@@ -4,4 +4,3 @@
 	bare = true
 	symlinks = false
 	ignorecase = true
-	name = aleksander
